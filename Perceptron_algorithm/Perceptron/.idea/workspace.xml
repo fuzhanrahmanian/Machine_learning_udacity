@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e4743c65-4c98-4f4c-ae29-378d1d94a98a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Perceptron.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Perceptron_algorithm.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Logical_operator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Logical_operator/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e4743c65-4c98-4f4c-ae29-378d1d94a98a" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,7 +105,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="-6" width="1549" height="837" extended-state="6" />
+    <frame x="-6" y="-6" width="1549" height="837" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
